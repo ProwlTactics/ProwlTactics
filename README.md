@@ -1,1 +1,1 @@
-ALL ships do not interact. indlucing yumes.
+ALL ships do not interact. including yumes.
